@@ -1,2 +1,2 @@
-# JS
-All my projects i do to learn JS
+# KPN
+Gra w kamień papier nożyce
